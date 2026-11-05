@@ -2,7 +2,7 @@
 
 FolderSearch V11 是以 Windows PowerShell 5.1 開發的檔案／資料夾名稱索引與快速搜尋工具，支援本機磁碟、可存取的映射網路磁碟、多磁碟搜尋及定時增量更新。
 
-you can download it ---> 7z��'
+you can download it ---> [FolderSearch.7z](./FolderSearch.7z)
 
 
 本工具使用純文字索引檔（.index、.dirs、.meta.json），不需要 SQLite 或其他資料庫。搜尋對象是檔名與完整路徑，不是 Word、PDF 或其他檔案的內文。
