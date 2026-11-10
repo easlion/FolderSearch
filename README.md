@@ -1,5 +1,12 @@
 # FolderSearch
 
+<img width="800" height="539" alt="image" src="https://github.com/user-attachments/assets/26b6c070-7727-412c-9da6-c95424048f42" />
+
+<img width="1139" height="764" alt="image" src="https://github.com/user-attachments/assets/8d892f41-3505-4921-8cfa-ad492d3530b4" />
+
+<img width="1143" height="763" alt="image" src="https://github.com/user-attachments/assets/fd327203-358d-459b-afb5-46bada911efe" />
+
+
 FolderSearch V11 是以 Windows PowerShell 5.1 開發的檔案／資料夾名稱索引與快速搜尋工具，支援本機磁碟、可存取的映射網路磁碟、多磁碟搜尋及定時增量更新。
 
 you can download it in D:\   ---------> [FolderSearch.7z](./FolderSearch.7z)
